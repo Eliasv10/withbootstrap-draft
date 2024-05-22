@@ -1,0 +1,32 @@
+
+body{
+    background-image: url(https://www.thebusinessdesk.com/_files/images/nov_18/APPConstruction_McLarenLeeds-e1542208434533.jpg);
+    background-size: cover;
+}
+header{
+    background-color: white;
+}
+
+.box{
+     background-color: aliceblue;
+     
+    border: 2px solid black;
+    margin-top: 5%;
+    margin-left: 60%;
+    margin-right: 20%;
+    margin-bottom: 2%;
+    padding: 2%;
+}
+#h1{
+    text-decoration: aliceblue;
+}
+.cat{
+    text-align: center;
+    
+}
+#head{
+    text-decoration: solid rgb(255, 255, 255);
+}
+.hhh{
+    text-decoration: solid red;
+}
